@@ -1,6 +1,5 @@
-// Java package specifiers
-option java_package = "com.basho.riak.protobuf";
-option java_outer_classname = "AntidotePB";
+// Package identifier.
+package Antidote.API;
 
 // Counter increment requenst
 message ApbRegUpdate {
